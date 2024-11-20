@@ -28,6 +28,7 @@ And live like it's heaven on earth.”<br/><br/>
 `
 ];
 
+
 let prevuesElement ;
 
 function generateQuotes (){
